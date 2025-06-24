@@ -1,75 +1,22 @@
-# Nuxt Minimal Starter
+# Avrio Energy UI Assignment
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a fully functional dashboard layout built using Nuxt 3 + Tailwind CSS.  
+It includes:
 
-## Setup
+- ✅ Sidebar + topbar layout
+- 📅 Calendar range picker
+- 📂 File uploader with drag & drop
+- 🖼️ File previewer with thumbnails and remove option
 
-Make sure to install dependencies:
+## Tech Stack
+
+- Nuxt 3
+- Tailwind CSS
+- Vue 3 Composition API
+- dayjs (for date handling)
+
+## Run the project
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
